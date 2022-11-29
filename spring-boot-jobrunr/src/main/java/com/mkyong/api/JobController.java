@@ -49,4 +49,6 @@ public class JobController {
     }
      public status (){
 }
+    public response(){
+    }
 }
